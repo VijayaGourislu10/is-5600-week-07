@@ -25,3 +25,5 @@ const Card = ({description, alt_description, id, _id, user, urls, likes}) => {
 }
 
 export default Card;
+
+
